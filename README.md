@@ -1,16 +1,27 @@
-## Hi there 👋
+# Christopher Jones – GitHub Portfolio
 
-<!--
-**gChrisj/gChrisj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio! I’m a senior Computer Science student at Oregon State University, graduating Fall 2025. This portfolio highlights my capstone and other software engineering projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏁 Capstone Project – Crowd-Sourced Travel Planner
+
+**Overview:**  
+A mobile-friendly platform that simplifies trip planning by organizing travel media and itineraries using crowd-sourced data.
+
+**My Role:**  
+- Frontend development with React Native  
+- Proofreading design documents  
+- Coordinating team collaboration via Discord & Google Drive  
+- Prototype planning and UI feedback
+
+**Tech Stack:**  
+- React Native  
+
+**Links:** 
+- https://github.com/villafla/cs461_travel_planner
+
+
+---
+
+More projects coming soon!
