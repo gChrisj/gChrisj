@@ -15,12 +15,13 @@ A mobile-friendly platform that simplifies trip planning by organizing travel me
 - Coordinating team collaboration via Discord & Google Drive  
 - Prototype planning and UI feedback
 
-**Tech Stack:**  
-- React Native  
 
 **Links:** 
 - https://github.com/villafla/cs461_travel_planner
 
+**Languages**: JavaScript, Python, SQL  
+**Tools**: React Native, Firebase, Node.js, GCP, Git  
+**Concepts**: Full-Stack Dev, REST APIs, AI Integration, Project Management
 
 ---
 
