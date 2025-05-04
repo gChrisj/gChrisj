@@ -28,5 +28,5 @@ A mobile-friendly platform that simplifies trip planning by organizing travel me
 A gamified budgeting app with XP, quests, and an AI assistant built using React Native & Firebase.
 
 ### 🔧 Whisper Transcriber Tool  
-Audio/video transcriber using Whisper & GPT APIs.
+Audio/video transcriber using Whisper & GPT APIs. [View Repo](https://github.com/gChrisj/CS361_Project))
 
