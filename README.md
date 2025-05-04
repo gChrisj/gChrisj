@@ -24,4 +24,12 @@ A mobile-friendly platform that simplifies trip planning by organizing travel me
 
 ---
 
-More projects coming soon!
+### 🚧 Capstone: Crowd-Sourced Travel Planner  
+A React Native app for trip planning and media organization. [View Repo](https://github.com/yourusername/crowd-travel-planner)
+
+### 💸 BudgieBuddy  
+A gamified budgeting app with XP, quests, and an AI assistant built using React Native & Firebase.
+
+### 🔧 Whisper Transcriber Tool  
+Audio/video transcriber using Whisper & GPT APIs.
+
